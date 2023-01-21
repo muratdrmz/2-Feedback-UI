@@ -1,0 +1,15 @@
+body{
+ margin: 0;
+ background-color: lightcyan;
+ color: darkgreen;
+ display: flex;
+ min-height: 100vh;
+ justify-content: center;
+ align-items: center;
+ font-family: monospace;
+ 
+}
+
+.rating img{
+ width: 40px;
+}
